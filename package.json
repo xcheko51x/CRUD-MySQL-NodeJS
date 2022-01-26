@@ -1,0 +1,14 @@
+{
+  "name": "crud_mysql_nodejs",
+  "version": "1.0.0",
+  "description": "CRUD MySQL con NodeJS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "xcheko51x",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  }
+}
